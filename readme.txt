@@ -13,4 +13,3 @@
 原来的SSH client： C:\Program Files\TortoiseGit\bin\TortoiseGitPlink.exe
 新的SSH client： E:\Program Files\Git\git-bash.exe
 
-13807067109
