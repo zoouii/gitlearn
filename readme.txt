@@ -9,3 +9,6 @@
 再修改一下测试远程同步
 
 继续修改测试用小乌龟提交
+
+原来的SSH client： C:\Program Files\TortoiseGit\bin\TortoiseGitPlink.exe
+新的SSH client： E:\Program Files\Git\git-bash.exe
